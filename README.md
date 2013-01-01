@@ -1,4 +1,4 @@
-BigDataAnalytics
+BigDataWebService
 ================
 
-Providing a web service for the processings / results distribution
+Provide a RESTful web service solution for the processings / results distribution.
